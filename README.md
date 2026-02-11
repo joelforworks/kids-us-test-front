@@ -4,8 +4,8 @@
 Implementacion de un front en next.
 
 ### Puntos claves 
--  Wl manego de apis lo he pensado de manera escalable.
--  Implementacion de componentes para megor organicación.
+-  Manego de apis de manera escalable.
+-  Implementacion de componentes para mejor organicación.
 -  typescript
 
 comandos de inicio:
