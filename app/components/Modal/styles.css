@@ -1,0 +1,35 @@
+.Modal__container {
+  position: fixed;          
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.5); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.Modal__content {
+  position: relative;       
+  background-color: white;
+  padding: 3rem 2rem 2rem 2rem;
+  border-radius: 12px;
+  min-width: 320px;
+  max-width: 90vw;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+
+.Modal__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap:1em;
+}
+.Form__group {
+  display: flex;
+  gap: 1em;
+}
