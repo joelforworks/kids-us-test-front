@@ -1,11 +1,11 @@
 
 ## Resumen
 
-Implementacion de un front en next.
+Implementación de un front en NextJs.
 
 ### Puntos claves 
 -  Manego de apis de manera escalable.
--  Implementacion de componentes para mejor organicación.
+-  Implementación de componentes para mejor organicación.
 -  typescript
 
 comandos de inicio:
